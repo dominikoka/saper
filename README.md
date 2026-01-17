@@ -61,7 +61,6 @@ It includes extra features like multiple themes, custom board settings, and a sc
 * **Score** – show the leaderboard
 * **Exit / Quit** – close the game
 
-*(Keep only what matches your implementation.)*
 
 ---
 
